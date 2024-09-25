@@ -1,0 +1,201 @@
+ID,P001,P002,P003,P004,P005,P006,P007,P008,P009,P010,Área 1,Área 2
+1,D,A,D,D,C,D,A,C,A,A,Ingeniería y Arquitectura,Ciencias Sociales y Jurídicas
+2,E,E,C,C,E,A,D,B,B,A,"Economía, Administración y Financiera",Ciencias Sociales y Jurídicas
+3,E,D,D,E,C,D,A,E,E,C,"Economía, Administración y Financiera",Ingeniería y Arquitectura
+4,C,A,D,C,B,E,C,E,D,E,Arte y Creatividad,Ciencias Sociales y Jurídicas
+5,D,B,D,D,C,B,D,E,C,B,Arte y Creatividad,"Economía, Administración y Financiera"
+6,D,C,B,A,E,C,B,E,C,C,"Economía, Administración y Financiera",Ciencias Sociales y Jurídicas
+7,B,C,B,A,E,E,B,B,A,A,Ciencias Sociales y Jurídicas,Ingeniería y Arquitectura
+8,D,C,A,A,D,C,A,B,A,B,Ingeniería y Arquitectura,"Economía, Administración y Financiera"
+9,B,B,C,D,E,E,C,D,D,C,Ciencias Sociales y Jurídicas,"Economía, Administración y Financiera"
+10,A,D,E,E,B,E,E,E,C,D,Arte y Creatividad,"Economía, Administración y Financiera"
+11,E,C,E,B,C,E,A,D,E,C,"Ciencias Biológicas, Ecológicas y de Salud",Ciencias Sociales y Jurídicas
+12,A,D,E,B,C,B,C,E,C,D,"Ciencias Biológicas, Ecológicas y de Salud",Ingeniería y Arquitectura
+13,C,C,E,B,E,A,B,B,C,C,Arte y Creatividad,Ciencias Sociales y Jurídicas
+14,C,B,A,D,E,E,A,A,E,C,"Economía, Administración y Financiera",Arte y Creatividad
+15,B,E,B,A,E,D,D,D,D,C,"Ciencias Biológicas, Ecológicas y de Salud",Ciencias Sociales y Jurídicas
+16,B,D,B,C,A,D,C,A,B,E,"Ciencias Biológicas, Ecológicas y de Salud","Economía, Administración y Financiera"
+17,A,E,D,D,A,D,D,C,E,C,Ingeniería y Arquitectura,Ciencias Sociales y Jurídicas
+18,D,D,C,E,C,C,C,C,D,A,Arte y Creatividad,Ingeniería y Arquitectura
+19,A,B,B,B,C,C,A,E,D,B,Arte y Creatividad,Ingeniería y Arquitectura
+20,B,D,B,C,C,A,A,D,E,E,Ingeniería y Arquitectura,Ciencias Sociales y Jurídicas
+21,D,B,B,D,B,E,D,E,A,E,"Ciencias Biológicas, Ecológicas y de Salud","Economía, Administración y Financiera"
+22,C,A,C,D,A,B,B,E,A,C,"Economía, Administración y Financiera",Ingeniería y Arquitectura
+23,B,A,A,B,A,C,D,E,C,E,"Ciencias Biológicas, Ecológicas y de Salud","Economía, Administración y Financiera"
+24,E,D,B,D,E,A,C,A,D,B,"Economía, Administración y Financiera",Ciencias Sociales y Jurídicas
+25,D,E,A,E,C,D,D,C,C,C,"Economía, Administración y Financiera",Arte y Creatividad
+26,A,E,B,A,D,B,D,D,D,E,Arte y Creatividad,Ciencias Sociales y Jurídicas
+27,D,E,A,A,A,D,C,E,B,E,"Economía, Administración y Financiera",Arte y Creatividad
+28,B,A,B,B,D,C,E,D,A,E,Arte y Creatividad,Ingeniería y Arquitectura
+29,C,C,B,A,E,A,D,E,E,C,"Ciencias Biológicas, Ecológicas y de Salud",Ciencias Sociales y Jurídicas
+30,D,B,D,B,D,C,A,D,D,C,Arte y Creatividad,"Economía, Administración y Financiera"
+31,B,C,A,B,E,A,A,A,B,A,Ciencias Sociales y Jurídicas,Arte y Creatividad
+32,C,B,C,D,A,E,E,E,E,A,Ingeniería y Arquitectura,"Economía, Administración y Financiera"
+33,B,B,C,A,C,E,D,A,C,E,"Ciencias Biológicas, Ecológicas y de Salud","Economía, Administración y Financiera"
+34,B,B,A,E,E,A,D,A,D,D,Ingeniería y Arquitectura,Arte y Creatividad
+35,D,D,B,B,D,E,D,A,E,A,Ingeniería y Arquitectura,Ciencias Sociales y Jurídicas
+36,C,A,E,D,B,C,E,D,D,A,"Ciencias Biológicas, Ecológicas y de Salud",Arte y Creatividad
+37,E,A,C,C,B,C,B,D,A,B,Ingeniería y Arquitectura,"Ciencias Biológicas, Ecológicas y de Salud"
+38,E,A,A,D,A,B,A,B,B,C,Ingeniería y Arquitectura,"Economía, Administración y Financiera"
+39,A,B,D,A,A,E,C,E,B,A,"Economía, Administración y Financiera",Ciencias Sociales y Jurídicas
+40,C,A,D,C,E,E,D,E,D,E,Arte y Creatividad,Ciencias Sociales y Jurídicas
+41,C,A,B,C,D,B,E,A,A,B,"Economía, Administración y Financiera",Ciencias Sociales y Jurídicas
+42,B,C,A,D,A,D,B,D,D,A,Ciencias Sociales y Jurídicas,Ingeniería y Arquitectura
+43,D,A,A,D,A,E,B,A,A,D,"Ciencias Biológicas, Ecológicas y de Salud",Ciencias Sociales y Jurídicas
+44,E,E,C,E,D,D,B,B,D,A,Ciencias Sociales y Jurídicas,"Ciencias Biológicas, Ecológicas y de Salud"
+45,E,D,E,E,C,C,A,A,C,E,"Ciencias Biológicas, Ecológicas y de Salud",Ingeniería y Arquitectura
+46,A,A,D,E,C,E,D,C,E,C,Ingeniería y Arquitectura,Arte y Creatividad
+47,B,D,E,D,E,E,C,B,A,B,"Economía, Administración y Financiera",Ciencias Sociales y Jurídicas
+48,D,D,B,D,C,A,B,D,E,D,Ingeniería y Arquitectura,"Ciencias Biológicas, Ecológicas y de Salud"
+49,B,E,B,A,A,A,E,E,A,E,Ingeniería y Arquitectura,Arte y Creatividad
+50,D,B,B,B,A,B,B,E,B,D,Ingeniería y Arquitectura,Ciencias Sociales y Jurídicas
+51,B,B,C,B,A,B,B,B,E,B,"Economía, Administración y Financiera","Ciencias Biológicas, Ecológicas y de Salud"
+52,D,E,A,D,A,A,E,A,B,A,Ingeniería y Arquitectura,"Economía, Administración y Financiera"
+53,D,E,E,D,B,D,D,D,D,D,Ciencias Sociales y Jurídicas,"Ciencias Biológicas, Ecológicas y de Salud"
+54,D,A,C,B,D,B,C,B,C,D,Ciencias Sociales y Jurídicas,"Economía, Administración y Financiera"
+55,B,E,E,C,A,D,E,B,A,A,Arte y Creatividad,Ciencias Sociales y Jurídicas
+56,B,E,E,E,E,A,D,B,D,B,Ciencias Sociales y Jurídicas,"Economía, Administración y Financiera"
+57,A,B,E,E,C,B,B,A,A,D,"Ciencias Biológicas, Ecológicas y de Salud",Ingeniería y Arquitectura
+58,A,E,C,B,D,D,B,C,A,D,"Ciencias Biológicas, Ecológicas y de Salud",Arte y Creatividad
+59,D,E,E,C,C,E,B,E,E,C,Arte y Creatividad,"Economía, Administración y Financiera"
+60,D,B,E,D,A,A,C,A,B,B,Ciencias Sociales y Jurídicas,"Economía, Administración y Financiera"
+61,D,A,E,A,D,B,B,B,A,B,"Economía, Administración y Financiera",Arte y Creatividad
+62,E,C,C,D,E,E,A,E,D,A,Arte y Creatividad,"Economía, Administración y Financiera"
+63,D,B,D,E,B,B,C,A,A,A,Ciencias Sociales y Jurídicas,"Economía, Administración y Financiera"
+64,C,E,C,E,A,D,A,B,D,C,Arte y Creatividad,Ingeniería y Arquitectura
+65,B,E,E,A,E,C,A,E,D,B,"Ciencias Biológicas, Ecológicas y de Salud",Ciencias Sociales y Jurídicas
+66,D,B,C,B,E,C,D,C,A,A,Ciencias Sociales y Jurídicas,Arte y Creatividad
+67,A,E,E,E,C,A,A,C,B,C,"Economía, Administración y Financiera",Ciencias Sociales y Jurídicas
+68,D,E,D,C,C,D,E,A,E,C,Ingeniería y Arquitectura,Ciencias Sociales y Jurídicas
+69,B,A,D,E,B,E,C,D,D,E,Ingeniería y Arquitectura,Ciencias Sociales y Jurídicas
+70,E,C,C,D,A,A,B,D,B,D,"Ciencias Biológicas, Ecológicas y de Salud","Economía, Administración y Financiera"
+71,E,D,E,B,B,D,E,D,C,B,Ingeniería y Arquitectura,Arte y Creatividad
+72,A,A,A,C,C,E,B,B,C,D,Ingeniería y Arquitectura,"Ciencias Biológicas, Ecológicas y de Salud"
+73,B,D,D,E,E,D,A,E,C,B,Ciencias Sociales y Jurídicas,"Ciencias Biológicas, Ecológicas y de Salud"
+74,B,A,B,A,A,A,C,B,E,B,Ciencias Sociales y Jurídicas,"Economía, Administración y Financiera"
+75,A,C,C,D,D,D,C,A,B,A,"Economía, Administración y Financiera","Ciencias Biológicas, Ecológicas y de Salud"
+76,D,D,B,D,B,E,C,C,C,A,"Ciencias Biológicas, Ecológicas y de Salud",Arte y Creatividad
+77,D,C,A,A,B,C,D,D,C,E,Ciencias Sociales y Jurídicas,"Ciencias Biológicas, Ecológicas y de Salud"
+78,A,A,E,C,B,D,D,B,C,E,Arte y Creatividad,"Ciencias Biológicas, Ecológicas y de Salud"
+79,E,C,E,D,D,B,C,B,A,A,Ciencias Sociales y Jurídicas,"Economía, Administración y Financiera"
+80,C,D,A,E,C,D,A,D,E,B,Ciencias Sociales y Jurídicas,"Economía, Administración y Financiera"
+81,D,A,D,A,E,A,E,B,E,E,Ciencias Sociales y Jurídicas,Arte y Creatividad
+82,C,D,D,B,B,D,A,A,C,C,Ciencias Sociales y Jurídicas,"Ciencias Biológicas, Ecológicas y de Salud"
+83,C,D,D,B,B,B,D,D,D,B,Ciencias Sociales y Jurídicas,Ingeniería y Arquitectura
+84,B,D,C,D,B,A,A,D,C,A,Ciencias Sociales y Jurídicas,Arte y Creatividad
+85,D,D,E,C,A,A,B,E,C,D,Ingeniería y Arquitectura,Ciencias Sociales y Jurídicas
+86,D,E,C,A,E,A,B,A,C,B,Ciencias Sociales y Jurídicas,Ingeniería y Arquitectura
+87,B,A,A,E,B,A,A,B,B,E,Arte y Creatividad,"Ciencias Biológicas, Ecológicas y de Salud"
+88,E,A,C,B,C,A,E,A,E,A,Ingeniería y Arquitectura,Arte y Creatividad
+89,D,E,B,D,E,B,A,C,A,A,Arte y Creatividad,Ingeniería y Arquitectura
+90,B,E,C,E,A,E,C,B,B,B,"Ciencias Biológicas, Ecológicas y de Salud",Ciencias Sociales y Jurídicas
+91,B,E,B,A,A,D,D,D,C,C,Ciencias Sociales y Jurídicas,"Ciencias Biológicas, Ecológicas y de Salud"
+92,E,A,D,D,A,E,D,E,D,A,"Ciencias Biológicas, Ecológicas y de Salud",Arte y Creatividad
+93,D,E,B,C,E,C,D,B,C,A,Ciencias Sociales y Jurídicas,Arte y Creatividad
+94,B,B,E,C,E,E,E,A,E,A,Arte y Creatividad,"Ciencias Biológicas, Ecológicas y de Salud"
+95,B,B,A,C,A,D,C,C,E,D,"Ciencias Biológicas, Ecológicas y de Salud",Ciencias Sociales y Jurídicas
+96,D,E,C,D,B,C,C,E,E,C,"Economía, Administración y Financiera","Ciencias Biológicas, Ecológicas y de Salud"
+97,E,B,D,D,C,C,B,C,E,B,Ciencias Sociales y Jurídicas,"Ciencias Biológicas, Ecológicas y de Salud"
+98,E,C,D,B,B,E,A,E,D,A,Ciencias Sociales y Jurídicas,Ingeniería y Arquitectura
+99,D,D,A,B,D,C,A,C,C,A,Arte y Creatividad,Ingeniería y Arquitectura
+100,E,C,A,D,E,A,A,E,E,E,Ciencias Sociales y Jurídicas,Ingeniería y Arquitectura
+101,A,A,B,B,B,B,B,C,C,B,"Economía, Administración y Financiera","Ciencias Biológicas, Ecológicas y de Salud"
+102,D,B,C,D,A,A,B,A,B,B,Ciencias Sociales y Jurídicas,Ingeniería y Arquitectura
+103,B,C,E,E,A,C,B,D,B,A,Arte y Creatividad,"Economía, Administración y Financiera"
+104,A,E,A,B,A,A,C,A,D,E,Arte y Creatividad,"Ciencias Biológicas, Ecológicas y de Salud"
+105,A,C,B,B,D,D,A,A,A,D,"Economía, Administración y Financiera",Ingeniería y Arquitectura
+106,E,B,E,A,D,E,E,D,D,D,Ciencias Sociales y Jurídicas,"Economía, Administración y Financiera"
+107,D,B,E,E,A,A,D,C,B,D,"Ciencias Biológicas, Ecológicas y de Salud",Arte y Creatividad
+108,E,C,D,B,C,A,E,A,A,A,Ciencias Sociales y Jurídicas,"Ciencias Biológicas, Ecológicas y de Salud"
+109,C,C,B,D,A,A,D,D,D,D,"Ciencias Biológicas, Ecológicas y de Salud",Ciencias Sociales y Jurídicas
+110,A,A,C,D,E,B,E,D,A,E,"Economía, Administración y Financiera","Ciencias Biológicas, Ecológicas y de Salud"
+111,B,C,B,A,D,B,E,D,E,B,Ciencias Sociales y Jurídicas,"Ciencias Biológicas, Ecológicas y de Salud"
+112,A,D,B,B,A,E,E,D,B,C,"Ciencias Biológicas, Ecológicas y de Salud","Economía, Administración y Financiera"
+113,D,B,C,D,A,A,D,A,D,A,Ciencias Sociales y Jurídicas,Arte y Creatividad
+114,A,B,E,E,A,D,D,E,D,A,Ingeniería y Arquitectura,"Economía, Administración y Financiera"
+115,A,E,D,B,D,E,E,A,B,D,Ciencias Sociales y Jurídicas,Arte y Creatividad
+116,B,A,E,C,B,E,D,C,C,D,"Ciencias Biológicas, Ecológicas y de Salud",Ingeniería y Arquitectura
+117,B,B,B,B,C,A,E,C,C,B,"Ciencias Biológicas, Ecológicas y de Salud",Arte y Creatividad
+118,A,C,B,E,E,D,A,C,E,B,"Ciencias Biológicas, Ecológicas y de Salud","Economía, Administración y Financiera"
+119,C,C,E,D,A,D,A,B,B,E,Arte y Creatividad,"Economía, Administración y Financiera"
+120,E,A,C,A,A,B,B,A,A,D,Arte y Creatividad,Ciencias Sociales y Jurídicas
+121,D,E,D,A,B,D,A,E,B,C,"Ciencias Biológicas, Ecológicas y de Salud",Arte y Creatividad
+122,D,C,C,D,C,A,D,D,D,A,"Ciencias Biológicas, Ecológicas y de Salud",Arte y Creatividad
+123,A,D,A,C,B,B,E,D,C,A,"Ciencias Biológicas, Ecológicas y de Salud","Economía, Administración y Financiera"
+124,A,E,C,D,D,C,A,A,C,D,Arte y Creatividad,Ingeniería y Arquitectura
+125,A,B,C,C,A,D,C,E,B,A,"Economía, Administración y Financiera",Ingeniería y Arquitectura
+126,E,A,E,B,C,A,D,C,E,D,Ingeniería y Arquitectura,"Economía, Administración y Financiera"
+127,A,A,C,C,E,A,C,A,D,C,"Economía, Administración y Financiera",Ciencias Sociales y Jurídicas
+128,E,B,D,D,B,A,B,B,C,D,"Economía, Administración y Financiera",Ciencias Sociales y Jurídicas
+129,B,D,E,E,C,B,B,A,A,C,Ingeniería y Arquitectura,"Ciencias Biológicas, Ecológicas y de Salud"
+130,B,B,D,C,C,B,A,A,E,A,"Economía, Administración y Financiera",Ingeniería y Arquitectura
+131,D,D,C,B,A,A,A,A,D,A,"Economía, Administración y Financiera","Ciencias Biológicas, Ecológicas y de Salud"
+132,E,B,A,B,A,D,C,A,B,A,Ingeniería y Arquitectura,Ciencias Sociales y Jurídicas
+133,A,A,A,E,B,A,A,D,B,E,Arte y Creatividad,Ingeniería y Arquitectura
+134,D,C,A,D,E,C,B,C,B,E,"Ciencias Biológicas, Ecológicas y de Salud",Arte y Creatividad
+135,D,E,D,B,B,D,C,A,E,D,Ingeniería y Arquitectura,Ciencias Sociales y Jurídicas
+136,A,C,D,C,B,E,E,C,C,A,"Ciencias Biológicas, Ecológicas y de Salud",Ingeniería y Arquitectura
+137,A,D,A,A,E,B,D,E,E,E,Ingeniería y Arquitectura,Arte y Creatividad
+138,A,A,D,C,B,D,D,B,B,D,Arte y Creatividad,"Ciencias Biológicas, Ecológicas y de Salud"
+139,A,C,C,A,B,D,B,A,B,C,"Ciencias Biológicas, Ecológicas y de Salud",Ingeniería y Arquitectura
+140,E,A,D,B,C,B,D,E,D,D,"Economía, Administración y Financiera",Ingeniería y Arquitectura
+141,D,A,B,E,D,C,B,C,D,E,"Economía, Administración y Financiera","Ciencias Biológicas, Ecológicas y de Salud"
+142,D,D,C,A,A,E,B,C,B,E,"Economía, Administración y Financiera",Arte y Creatividad
+143,D,D,A,B,A,C,B,E,C,A,Ciencias Sociales y Jurídicas,Arte y Creatividad
+144,B,D,D,C,A,D,B,C,E,C,"Economía, Administración y Financiera","Ciencias Biológicas, Ecológicas y de Salud"
+145,C,D,C,B,D,E,D,A,C,B,Arte y Creatividad,Ingeniería y Arquitectura
+146,E,B,E,C,E,C,C,B,B,A,Ingeniería y Arquitectura,Arte y Creatividad
+147,C,C,C,D,C,B,C,B,B,B,Ingeniería y Arquitectura,"Ciencias Biológicas, Ecológicas y de Salud"
+148,A,A,D,D,E,A,B,D,E,A,"Economía, Administración y Financiera","Ciencias Biológicas, Ecológicas y de Salud"
+149,E,B,A,B,A,E,C,B,C,B,Arte y Creatividad,Ciencias Sociales y Jurídicas
+150,B,B,C,C,B,A,E,A,D,D,"Ciencias Biológicas, Ecológicas y de Salud",Arte y Creatividad
+151,E,D,C,C,A,A,D,C,C,C,"Economía, Administración y Financiera",Ciencias Sociales y Jurídicas
+152,B,B,D,B,E,C,E,D,D,D,"Ciencias Biológicas, Ecológicas y de Salud","Economía, Administración y Financiera"
+153,C,A,A,E,D,C,D,C,E,B,Ciencias Sociales y Jurídicas,Arte y Creatividad
+154,C,B,D,C,A,A,A,E,C,D,"Ciencias Biológicas, Ecológicas y de Salud",Ingeniería y Arquitectura
+155,B,B,C,D,C,E,A,D,C,A,"Ciencias Biológicas, Ecológicas y de Salud","Economía, Administración y Financiera"
+156,D,B,C,E,C,D,D,B,B,A,Arte y Creatividad,"Economía, Administración y Financiera"
+157,B,C,D,B,E,E,E,E,A,D,Ingeniería y Arquitectura,"Economía, Administración y Financiera"
+158,A,D,A,B,C,A,E,E,B,B,"Ciencias Biológicas, Ecológicas y de Salud","Economía, Administración y Financiera"
+159,D,A,C,C,D,C,C,A,C,D,Arte y Creatividad,"Economía, Administración y Financiera"
+160,B,E,C,D,A,A,D,E,C,E,Arte y Creatividad,Ciencias Sociales y Jurídicas
+161,D,E,E,D,D,D,A,E,E,D,Ingeniería y Arquitectura,Ciencias Sociales y Jurídicas
+162,B,E,B,B,E,E,B,E,A,C,"Ciencias Biológicas, Ecológicas y de Salud",Arte y Creatividad
+163,A,D,B,A,A,D,B,E,C,D,Ingeniería y Arquitectura,"Ciencias Biológicas, Ecológicas y de Salud"
+164,C,D,B,B,B,A,B,C,A,A,Ingeniería y Arquitectura,Ciencias Sociales y Jurídicas
+165,B,B,B,E,A,E,D,A,A,E,Ciencias Sociales y Jurídicas,"Ciencias Biológicas, Ecológicas y de Salud"
+166,B,A,A,C,A,B,C,E,A,D,Ciencias Sociales y Jurídicas,Ingeniería y Arquitectura
+167,E,A,B,D,C,D,E,B,E,A,"Economía, Administración y Financiera",Ciencias Sociales y Jurídicas
+168,B,D,E,D,E,B,D,B,E,D,"Economía, Administración y Financiera","Ciencias Biológicas, Ecológicas y de Salud"
+169,D,A,B,A,B,A,D,C,A,E,"Ciencias Biológicas, Ecológicas y de Salud",Arte y Creatividad
+170,C,E,B,D,E,D,A,E,A,A,"Ciencias Biológicas, Ecológicas y de Salud",Ciencias Sociales y Jurídicas
+171,E,E,E,D,B,E,B,D,C,B,Ciencias Sociales y Jurídicas,Arte y Creatividad
+172,B,C,B,D,C,A,C,E,C,D,"Economía, Administración y Financiera",Arte y Creatividad
+173,E,D,B,D,E,A,D,E,B,D,"Ciencias Biológicas, Ecológicas y de Salud",Ciencias Sociales y Jurídicas
+174,D,D,B,D,D,A,A,D,A,E,"Economía, Administración y Financiera",Ciencias Sociales y Jurídicas
+175,C,C,C,D,D,A,D,C,D,E,"Ciencias Biológicas, Ecológicas y de Salud",Ciencias Sociales y Jurídicas
+176,D,E,C,D,D,A,B,C,B,E,Ciencias Sociales y Jurídicas,Arte y Creatividad
+177,C,D,E,E,E,E,E,C,E,B,Ciencias Sociales y Jurídicas,Ingeniería y Arquitectura
+178,D,A,A,C,E,A,A,D,E,E,Ingeniería y Arquitectura,"Ciencias Biológicas, Ecológicas y de Salud"
+179,C,C,D,B,D,A,C,D,C,D,"Economía, Administración y Financiera","Ciencias Biológicas, Ecológicas y de Salud"
+180,D,C,A,D,E,B,D,D,C,A,Ingeniería y Arquitectura,Arte y Creatividad
+181,C,C,A,A,B,D,D,E,D,D,"Economía, Administración y Financiera","Ciencias Biológicas, Ecológicas y de Salud"
+182,B,D,D,C,E,E,A,E,D,E,"Ciencias Biológicas, Ecológicas y de Salud","Economía, Administración y Financiera"
+183,E,E,E,C,D,D,C,C,A,E,Ingeniería y Arquitectura,Ciencias Sociales y Jurídicas
+184,E,D,B,E,B,D,C,B,E,A,Ciencias Sociales y Jurídicas,Ingeniería y Arquitectura
+185,B,E,C,C,C,E,E,D,C,D,Ciencias Sociales y Jurídicas,Arte y Creatividad
+186,E,C,E,D,B,A,B,B,C,C,Ingeniería y Arquitectura,Ciencias Sociales y Jurídicas
+187,E,E,E,A,C,A,B,C,B,E,Ingeniería y Arquitectura,"Ciencias Biológicas, Ecológicas y de Salud"
+188,E,C,B,A,B,E,D,A,B,C,Ingeniería y Arquitectura,Arte y Creatividad
+189,E,A,B,D,E,A,D,B,D,A,Ciencias Sociales y Jurídicas,Ingeniería y Arquitectura
+190,B,D,A,B,A,C,C,E,A,A,"Ciencias Biológicas, Ecológicas y de Salud","Economía, Administración y Financiera"
+191,E,D,C,E,B,A,C,D,A,C,"Ciencias Biológicas, Ecológicas y de Salud",Ingeniería y Arquitectura
+192,C,E,C,B,C,B,B,E,C,C,Arte y Creatividad,Ciencias Sociales y Jurídicas
+193,A,E,D,A,B,B,A,D,A,C,Arte y Creatividad,"Ciencias Biológicas, Ecológicas y de Salud"
+194,B,A,C,A,D,C,E,D,C,D,"Ciencias Biológicas, Ecológicas y de Salud",Ciencias Sociales y Jurídicas
+195,D,A,E,A,D,D,D,E,A,A,"Ciencias Biológicas, Ecológicas y de Salud","Economía, Administración y Financiera"
+196,E,B,B,C,A,B,A,E,C,B,"Economía, Administración y Financiera",Ciencias Sociales y Jurídicas
+197,E,C,B,E,A,C,E,B,B,D,"Economía, Administración y Financiera",Arte y Creatividad
+198,B,A,A,E,D,D,A,A,B,B,"Economía, Administración y Financiera",Ingeniería y Arquitectura
+199,C,A,D,D,A,D,C,E,B,A,"Ciencias Biológicas, Ecológicas y de Salud",Ciencias Sociales y Jurídicas
+200,A,C,E,A,A,D,E,C,D,E,"Economía, Administración y Financiera",Arte y Creatividad
